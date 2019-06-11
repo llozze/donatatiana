@@ -211,6 +211,7 @@ img[class] {
 }
 .boton-2:hover {
     background: #fbc326;
+    color: #000;
 }
 .boton-2:hover a {
     color: #000;
